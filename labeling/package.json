@@ -1,0 +1,15 @@
+{
+  "name": "labeling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "spacy": "^0.0.4",
+    "spacy-js": "^0.0.5"
+  }
+}
